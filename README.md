@@ -1,3 +1,13 @@
+# RoadGPT — BlackRoad CLI tool for LLM chat and shell command generation.
+
+> Part of the [BlackRoad OS](https://blackroad.io) sovereign technology ecosystem.
+> Licensed under [BlackRoad OS, Inc. Proprietary License](./LICENSE).
+
+[![BlackRoad](https://img.shields.io/badge/BlackRoad-OS-black?style=flat-square)](https://blackroad.io)
+[![License](https://img.shields.io/badge/License-Proprietary-black?style=flat-square)](./LICENSE)
+
+---
+
 # SGPT
 
 SGPT (*aka shell-gpt*) is a powerful command-line interface (CLI) tool designed for seamless interaction with OpenAI
